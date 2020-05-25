@@ -1,0 +1,2 @@
+# githubalfa
+trening repo
